@@ -3,7 +3,7 @@
 ## Содержимое:
 
 - linear_models.py — решения: собственная линейная регрессия, собственная логистическая регрессия, сравнение с готовыми моделями sklearn
-- run_experiments.py — подготовка данных, эксперименты, запись experiment_results.json
+- run.py — подготовка данных, эксперименты, запись experiment_results.json
 - experiment_results.json — измеренные метрики (линейная регрессия и 4 классификатора)
 - REPORT.md — отчёт: данные, гипотезы, метрики, выводы
 - Student_Performance.csv, german.csv — данные
